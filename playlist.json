@@ -1,17 +1,17 @@
 "_comment" : "entrez vos chansons preferees dans la liste ci-dessous. Suivez les premieres entrees comme exemple"
 {
 	"playlist": [
-		{ 
+		{
 			"titre": "Never gonna give you up",
 			"artiste": "Rick Astley",
 			"album": "Whenever you need somebody",
 			"année": 1987,
-			"url": "https://www.youtube.com/watch?v=KScEW5a_KGY"
-		{
-			"titre": "Milord",
-			"artiste": "Edisth Piaf",
-			"année": 1959,
-			"url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
-		},
+			"url": "https://www.youtube.com/watch?v=yQLoGiVhE30",
+			{
+				"titre": "Milord",
+				"artiste": "Edisth Piaf",
+				"année": 1959,
+				"url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+			}
 	]
 }
